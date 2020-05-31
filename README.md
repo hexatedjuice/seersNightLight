@@ -18,3 +18,4 @@ hubei_vir_2020035.png has 7.627% illuminated
 ```
 
 ![Hubei January](hubei_vir_2020019.png)
+![Hubei January Processed](hubei_vir_2020019_cleaned.png)
