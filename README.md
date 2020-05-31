@@ -18,4 +18,10 @@ hubei_vir_2020035.png has 7.627% illuminated
 ```
 
 ![Hubei January](hubei_vir_2020019.png)
+
+Above is the preprocessed image of Wuhan, China on January 19, 2020. Using
+OpenCV, the image is processed to remove noise and isolate the significant
+areas of brightness. Then, PIL is used to iterate through each pixel to find
+the percentage of luminescence in the image.
+
 ![Hubei January Processed](hubei_vir_2020019_cleaned.png)
