@@ -43,8 +43,9 @@ def clean(stuff):
 
 
 def analyze(files):
+
 	for i in files:
-		im = np.array(Image.open(i).convert('RGB'))
+		im = np.array(Image.open(i).convert('1').convert('RGB'))
 		white = [255,255,255]
 		black = [0,0,0]
 
