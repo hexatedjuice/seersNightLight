@@ -1,3 +1,8 @@
+#This script was made for the 2020 NASA Rocket Apps Hackathon.
+#The SustainableSeers' goal is to analyze and prepare graphics on
+#how COVID-19 affected the UN's SDG #11.
+#By hexatedjuice | https://github.com/hexatedjuice
+
 from PIL import Image
 import sys
 import cv2
