@@ -2,7 +2,7 @@
 
 SDG 11
 
-Our, the [sustainableSeers's](https://sfwang.wixsite.com/mysite), goal is to anaylze the impact COVID-19 has made on our society by looking at the progress of the UN's Sustainable Developement Goals. In particular, our team is focused
+Our, the [sustainableSeers'](https://sfwang.wixsite.com/mysite), goal is to anaylze the impact COVID-19 has made on our society by looking at the progress of the UN's Sustainable Developement Goals. In particular, our team is focused
 on SDG 11: Sustainable Cities and Communities.
 
 
