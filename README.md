@@ -6,6 +6,19 @@ Our goal is to anaylze the impact COVID-19 has made on our society by looking at
 progress of the UN's Sustainable Developement Goals. In particular, our team is focused
 on SDG 11: Sustainable Cities and Communities.
 
+
+##Data
+* a list of dates can be found on our [website](https://sfwang.wixsite.com/mysite)
+
+City|Initial Illumination (% area)|Final Illumination (% area)| Delta
+---|---|---|---
+New York|11.280|10.380|-0.900
+Atlanta|8.266|7.895|-0.372
+Delhi|11.190|8.141|-3.049
+Seoul|12.620|12.350|-0.527
+Lombardy|16.040|16.530|+0.49
+
+
 ## syntax and process
 ```
 $ python analyzeNightLight.py [file1] [file2] ...
