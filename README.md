@@ -8,6 +8,9 @@ on SDG 11: Sustainable Cities and Communities.
 
 
 ## Data and Conclusions
+
+![Illumination in Impacted Cities](illuminationChart.png)
+
 * a list of dates can be found on our [website](https://sfwang.wixsite.com/mysite)
 * images of night radience were provided by [NOAA (NCIE) VIIRS DNB Nighttime Imagery](https://ngdc.noaa.gov/eog/viirs/download_dnb_composites.html)
   - images were scraped via the provided REST API powered by ArcGIS
