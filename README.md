@@ -45,7 +45,8 @@ febNy.png has 11.280% illuminated
 
 Above is the preprocessed image of Wuhan, China on January 19, 2020. Using
 OpenCV, the image is processed to remove noise and isolate the significant
-areas of brightness. Then, PIL is used to iterate through each pixel to find
+areas of brightness. OpenCV is content aware and can thus outline the most prominent light pixels. 
+Then, PIL is used to iterate through each pixel to find
 the percentage of luminescence in the image.
 
 ![New York in February processed](febNy_cleaned.png)
