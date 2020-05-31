@@ -33,17 +33,16 @@ number of people who go outside for shopping, vacations, and/or work.
 $ python analyzeNightLight.py [file1] [file2] ...
 
 #example
-$ python analyzeNightLight.py hubei_vir_2020019.png hubei_vir_2020035.png
-hubei_vir_2020019.png has 8.166% illuminated
-hubei_vir_2020035.png has 7.627% illuminated
+$ python analyzeNightLight.py febNy.png 
+febNy.png has 11.280% illuminated
 
 ```
 
-![Hubei January](hubei_vir_2020019.png)
+![New York in February](febNy.png)
 
 Above is the preprocessed image of Wuhan, China on January 19, 2020. Using
 OpenCV, the image is processed to remove noise and isolate the significant
 areas of brightness. Then, PIL is used to iterate through each pixel to find
 the percentage of luminescence in the image.
 
-![Hubei January Processed](hubei_vir_2020019_cleaned.png)
+![New York in February processed](febNy_cleaned.png)
