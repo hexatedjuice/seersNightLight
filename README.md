@@ -7,8 +7,10 @@ progress of the UN's Sustainable Developement Goals. In particular, our team is 
 on SDG 11: Sustainable Cities and Communities.
 
 
-## Data
+## Data and Conclusions
 * a list of dates can be found on our [website](https://sfwang.wixsite.com/mysite)
+* images of night radience were provided by [NOAA (NCIE) VIIRS DNB Nighttime Imagery](https://ngdc.noaa.gov/eog/viirs/download_dnb_composites.html)
+  - images were scraped via the provided REST API powered by ArcGIS
 
 City|Initial Illumination (% area)|Final Illumination (% area)| Delta
 ---|---|---|---
@@ -19,6 +21,11 @@ Seoul|12.620|12.350|-0.527
 Lombardy|16.040|16.530|+0.490
 
 Standard Deviation of Delta: 1.0063563186069
+
+In general, the amount of illumination in cities bearing the brunt of the
+COVID-19 pandemic decreased. Our team believes this is due to the policies
+implemented by governments for quarantine. A lockdown induces a decrease in the
+number of people who go outside for shopping, vacations, and/or work. 
 
 
 ## syntax and process
