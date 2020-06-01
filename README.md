@@ -1,5 +1,7 @@
 # seersNightLight
 
+![demo](demo.gif)
+
 SDG 11
 
 Our, the [sustainableSeers'](https://sfwang.wixsite.com/mysite), goal is to anaylze the impact COVID-19 has made on our society by looking at the progress of the UN's Sustainable Developement Goals. In particular, our team is focused
